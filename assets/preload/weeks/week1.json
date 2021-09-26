@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Deranged", "fear", [160, 160, 160]],
+		["Adrenaline", "fear", [160, 160, 160]],
+		["Phobophobia", "fear", [160, 160, 160]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "philly",
+
+	"storyName": "Unknown Species",
+	"weekBefore": "week 1",
+	"weekName": "Week 1",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}
